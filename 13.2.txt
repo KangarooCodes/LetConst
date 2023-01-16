@@ -1,0 +1,10 @@
+const PI = 3.14;
+PI = 42;
+
+1) "var" can be redeclared and  reassigned, unlike "let"
+
+2) "const" cannot be redeclared OR reassigned, unlike "var"
+
+3) "let" can be reassigned, unlike "const"
+
+4) Hoisting is a way of assigning variables before it is being used.
